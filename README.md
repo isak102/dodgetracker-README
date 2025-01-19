@@ -66,6 +66,12 @@ The web-application is built using NextJS, TailwindCSS and Typescript and is hos
 
 ## Community Usage
 
+### Tyler1
+
+[Tyler1 Discovers Dodgetracker (300K+ views)](https://www.youtube.com/watch?v=eH17KxPCjTg)
+
+### Agurin
+
 In this clip, one of the most popular streamers [Agurin](https://lol.fandom.com/wiki/Agurin) uses Dodgetracker to check who dodged his most recent champion selection, and voices his appreaciation for the site:
 
 https://github.com/isak102/dodgetracker/assets/90389894/2ef368cc-7e15-4f17-80d2-20854e4698cf
